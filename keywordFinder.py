@@ -17,5 +17,4 @@ def extract_keywords(row):
 # Apply the function to each row
 df['Keywords'] = df.apply(extract_keywords, axis=1)
 
-
 #post process-Keywords
