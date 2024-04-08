@@ -10,3 +10,19 @@ This article is currently being written.
 ## Installation
 - Make sure the dependencies are installed
 
+## Query generator
+The queries generated for both ProQuest and WebOfScience are the result of looping over the included keywords
+
+### ProQuest
+```
+for keyword in collection:
+		results += "noft("+keyword+") OR "
+```
+
+### WebOfScience
+```
+for keyword in collection:
+		results += "noft("+keyword+") OR "
+  results += "(TS=("+keyword+") OR TI=("+keyword+") OR AB=("+keyword+")) OR "
+```
+
