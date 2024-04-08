@@ -16,13 +16,12 @@ The queries generated for both ProQuest and WebOfScience are the result of loopi
 ### ProQuest
 ```
 for keyword in collection:
-		results += "noft("+keyword+") OR "
+	results += "noft("+keyword+") OR "
 ```
 
 ### WebOfScience
 ```
 for keyword in collection:
-		results += "noft("+keyword+") OR "
-  results += "(TS=("+keyword+") OR TI=("+keyword+") OR AB=("+keyword+")) OR "
+	results += "(TS=("+keyword+") OR TI=("+keyword+") OR AB=("+keyword+")) OR "
 ```
 
