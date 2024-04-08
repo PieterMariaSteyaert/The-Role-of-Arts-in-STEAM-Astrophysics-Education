@@ -25,3 +25,5 @@ for keyword in collection:
 	results += "(TS=("+keyword+") OR TI=("+keyword+") OR AB=("+keyword+")) OR "
 ```
 
+## Overview of data
+- "Article Selection Procedure - All data.csv" - Results from Web of Science and ProQuest databases 
