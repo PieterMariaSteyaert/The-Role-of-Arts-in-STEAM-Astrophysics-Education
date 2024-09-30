@@ -1,29 +1,68 @@
-# The-Role-of-Arts-in-STEAM-Astrophysics-Education-
-Scripts used for article "The Role of Arts in STEAM astrophysics education"
 
-This article is currently being written.
+# The Role of Arts in STEAM Astrophysics Education
+
+This repository contains scripts and data used in the article *"The Role of Arts in STEAM Astrophysics Education."*  
+The article is currently being written and is expected to be published soon.
 
 ## Dependencies
- - rake https://github.com/fabianvf/python-rake
- - pandas
+
+To use the scripts provided in this repository, please ensure the following Python packages are installed:
+
+- [RAKE (Rapid Automatic Keyword Extraction)](https://github.com/fabianvf/python-rake)
+- `pandas`
+
+You can install these dependencies using `pip`:
+
+```bash
+pip install python-rake pandas
+```
 
 ## Installation
-- Make sure the dependencies are installed
 
-## Query generator
-The queries generated for both ProQuest and WebOfScience are the result of looping over the included keywords
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/The-Role-of-Arts-in-STEAM-Astrophysics-Education.git
+cd The-Role-of-Arts-in-STEAM-Astrophysics-Education
+```
+
+2. Install the required dependencies (if not already installed):
+
+```bash
+pip install -r requirements.txt
+```
+
+## Query Generator
+
+The scripts in this repository generate search queries for academic databases such as ProQuest and Web of Science. These queries are built by looping over a collection of keywords. Below are the query generation structures for each database.
 
 ### ProQuest
-```
+
+The following script generates a search query for ProQuest by iterating over a list of keywords:
+
+```python
 for keyword in collection:
-	results += "noft("+keyword+") OR "
+    results += "noft(" + keyword + ") OR "
 ```
 
-### WebOfScience
-```
+### Web of Science
+
+For Web of Science, the script constructs a query by searching in the title (`TI`), abstract (`AB`), and topic (`TS`) fields:
+
+```python
 for keyword in collection:
-	results += "(TS=("+keyword+") OR TI=("+keyword+") OR AB=("+keyword+")) OR "
+    results += "(TS=(" + keyword + ") OR TI=(" + keyword + ") OR AB=(" + keyword + ")) OR "
 ```
 
-## Overview of data
-- "Article Selection Procedure - All data.csv" - Results from Web of Science and ProQuest databases 
+## Data Overview
+
+The key data file included in this repository is:
+
+- **`Article Selection Procedure - All data.csv`**  
+  This file contains the search results from the Web of Science and ProQuest databases used in the article's research.
+
+---
+
+### Additional Notes
+
+If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
