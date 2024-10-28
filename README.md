@@ -18,7 +18,7 @@ pip install python-rake pandas
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository / methods:
 
 ```bash
 git clone https://github.com/PieterMariaSteyaert/The-Role-of-Arts-in-STEAM-Astrophysics-Education
@@ -52,6 +52,20 @@ For Web of Science, the script constructs a query by searching in the title (`TI
 for keyword in collection:
     results += "(TS=(" + keyword + ") OR TI=(" + keyword + ") OR AB=(" + keyword + ")) OR "
 ```
+
+## Analysis overview
+In the Analysis directory you can find tables for each of the following segments:
+
+  - 1 - Inclusion criteria identifiers
+  - 2 - STEAM definitions
+  - 3 - Space topics
+  - 4 - Media
+  - 5 - Challenges of incorporating Art in STEAM interventions
+  - 6 - Assessment Overview
+  - 7 - Incorporation of STEM and Art fields
+  - 8 - Results of STEAM interventions
+  - 9 - Distribution of type of intervention and targeted ages
+  - 10 - Mentions of Creativity in STEAM interventions
 
 ## Data Overview
 
