@@ -1,8 +1,8 @@
 import pandas as pd
 import RAKE
 
-# Assuming your CSV file is named 'data.csv' and uploaded to Colab
-df = pd.read_csv('/content/STEAMLIT_PROQ_19122022_KEYWORDFINDER.csv')
+# replace with data CSV
+df = pd.read_csv('DATA.csv')
 
 # Initialize Rake
 rake = RAKE.Rake(RAKE.SmartStopList())
