@@ -11,6 +11,7 @@
 - **Purpose:** _(add a one-line purpose under Overview in _project.md)_
 - **State:** development
 - **Deadline:** none set
+- **Snoozed until:** 2026-10-16
 - **Vault folder:** `Projects/academic/steam-astrophysics-article`
 - **Website:** https://pietersteyaert.net/project/steam (suggested)
 
@@ -38,6 +39,7 @@
 - **Purpose:** _(add a one-line purpose under Overview in _project.md)_
 - **State:** development
 - **Deadline:** none set
+- **Snoozed until:** 2026-10-16
 - **Vault folder:** `Projects/academic/steam-astrophysics-article`
 - **Website:** https://pietersteyaert.net/project/steam (suggested)
 
