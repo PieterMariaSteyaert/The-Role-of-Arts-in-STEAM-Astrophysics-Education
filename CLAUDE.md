@@ -11,7 +11,6 @@
 - **Purpose:** _(add a one-line purpose under Overview in _project.md)_
 - **State:** development
 - **Deadline:** none set
-- **Snoozed until:** 2026-10-16
 - **Vault folder:** `Projects/academic/steam-astrophysics-article`
 - **Website:** https://pietersteyaert.net/project/steam (suggested)
 
@@ -39,7 +38,6 @@
 - **Purpose:** _(add a one-line purpose under Overview in _project.md)_
 - **State:** development
 - **Deadline:** none set
-- **Snoozed until:** 2026-10-16
 - **Vault folder:** `Projects/academic/steam-astrophysics-article`
 - **Website:** https://pietersteyaert.net/project/steam (suggested)
 
@@ -60,6 +58,12 @@
 - 
 
 #### Aux files
+
+### claude/handoff.md
+
+### Handoff · Syslit: The Role of Arts in STEAM Astrophysics Education
+
+> Written by Claude when a session closes: what was done, what is open, the next step. Newest first.
 
 ### claude/decisions.md
 
