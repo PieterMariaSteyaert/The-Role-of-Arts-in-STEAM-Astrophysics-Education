@@ -29,6 +29,7 @@
 | — | ↳ R1.6 Reframe "STEAM risks being perceived as a trivial side project" as implication/concern |  |
 | — | ↳ R1.7 Make implications specific and actionable (define the "A"; assess artistic + scientific components together) |  |
 | — | ↳ R1.8 Streamline repeated small-corpus remarks in discussion |  |
+| — | ↳ Set up Paper Workbench + seed manuscript from thesis §2.1 (J-STEAM template, baseline = submitted text) (with Claude) | yes |
 | — | ↳ Write response-to-reviewers letter (point by point) |  |
 
 ### Resources
@@ -73,6 +74,7 @@
 | — | ↳ R1.6 Reframe "STEAM risks being perceived as a trivial side project" as implication/concern |  |
 | — | ↳ R1.7 Make implications specific and actionable (define the "A"; assess artistic + scientific components together) |  |
 | — | ↳ R1.8 Streamline repeated small-corpus remarks in discussion |  |
+| — | ↳ Set up Paper Workbench + seed manuscript from thesis §2.1 (J-STEAM template, baseline = submitted text) (with Claude) | yes |
 | — | ↳ Write response-to-reviewers letter (point by point) |  |
 
 ##### Resources
@@ -108,6 +110,7 @@
 | Date | Decision | Why |
 |---|---|---|
 | 2026-11-10 | Work to final revision deadline 16 Nov 2026 (confirmed by editor Ş. İdil, 6 Nov); revised version goes to all co-authors first, then upload to DergiPark | DergiPark auto-notice said 1 Nov; the editor confirmed 16 Nov by mail and called it a final extension. On 6 Nov Pieter told Peter/Katrien/Anja/Jesper they'd get a new version early this week. |
+| 2026-11-10 | Do the J-STEAM revision in the new Paper Workbench: manuscript at ~/repositories/academic/steam-astrophysics-article/steam-manuscript (own local git repo), seeded from thesis §2.1; the seed commit (7295e8b) is the revision baseline, so the tracked-changes .docx shows every change against the submitted text. Word export uses the J-STEAM template (sablon.docx) and its own styles. | Thesis §2.1 is the embedded article, which was not reworked, so it stands in for the submitted manuscript (the submitted .docx itself was not found on disk). One source gives the Word file for upload, a PDF for co-authors and the marked-up changes the journal expects. |
 
 ### claude/people.md
 
