@@ -14,6 +14,12 @@
 - **Vault folder:** `Projects/academic/steam-astrophysics-article`
 - **Website:** https://pietersteyaert.net/project/steam (suggested)
 
+### Milestones
+
+| Date | Milestone | Done |
+|---|---|---|
+| 2026-11-16 | Submit major revision to Journal of STEAM Education (DergiPark 1838138) — final deadline (with Claude) |  |
+
 ### Resources
 
 - GitHub (main): https://github.com/PieterMariaSteyaert/The-Role-of-Arts-in-STEAM-Astrophysics-Education
@@ -40,6 +46,12 @@
 - **Deadline:** none set
 - **Vault folder:** `Projects/academic/steam-astrophysics-article`
 - **Website:** https://pietersteyaert.net/project/steam (suggested)
+
+##### Milestones
+
+| Date | Milestone | Done |
+|---|---|---|
+| 2026-11-16 | Submit major revision to Journal of STEAM Education (DergiPark 1838138) — final deadline (with Claude) |  |
 
 ##### Resources
 
