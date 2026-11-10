@@ -107,6 +107,7 @@
 
 | Date | Decision | Why |
 |---|---|---|
+| 2026-11-10 | Work to final revision deadline 16 Nov 2026 (confirmed by editor Ş. İdil, 6 Nov); revised version goes to all co-authors first, then upload to DergiPark | DergiPark auto-notice said 1 Nov; the editor confirmed 16 Nov by mail and called it a final extension. On 6 Nov Pieter told Peter/Katrien/Anja/Jesper they'd get a new version early this week. |
 
 ### claude/people.md
 
