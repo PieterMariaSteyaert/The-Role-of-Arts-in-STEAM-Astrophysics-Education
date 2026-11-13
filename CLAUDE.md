@@ -19,7 +19,8 @@
 | Date | Milestone | Done |
 |---|---|---|
 | 2026-11-16 | Submit major revision to Journal of STEAM Education (DergiPark 1838138) — final deadline (with Claude) |  |
-| 2026-11-11 | ↳ Send revised version to all co-authors (promised Peter/Katrien/Anja/Jesper "early next week") |  |
+| 2026-11-11 | ↳ Send revised version to all co-authors (promised Peter/Katrien/Anja/Jesper "early next week") | yes |
+| 2026-11-13 | ↳ Resend missing attachments 3 (changes-in-margin PDF) + 4 (tracked-changes Word) to co-authors (Peter asked 13 Nov) (with Claude) |  |
 | 2026-11-16 | ↳ Incorporate co-author feedback and upload revision + response letter to DergiPark |  |
 | — | ↳ R1.1 Fix font break under "The A in STEAM"; all tables + figures to APA style |  |
 | — | ↳ R1.2 Introduction: critical take on Perignat & Katz-Buonincontro / Braund & Reiss + state astronomy-specific contribution |  |
@@ -30,7 +31,7 @@
 | — | ↳ R1.7 Make implications specific and actionable (define the "A"; assess artistic + scientific components together) |  |
 | — | ↳ R1.8 Streamline repeated small-corpus remarks in discussion |  |
 | — | ↳ Set up Paper Workbench + seed manuscript from thesis §2.1 (J-STEAM template, baseline = submitted text) (with Claude) | yes |
-| — | ↳ Write response-to-reviewers letter (point by point) |  |
+| — | ↳ Write response-to-reviewers letter (point by point) | yes |
 
 ### Resources
 
@@ -64,7 +65,8 @@
 | Date | Milestone | Done |
 |---|---|---|
 | 2026-11-16 | Submit major revision to Journal of STEAM Education (DergiPark 1838138) — final deadline (with Claude) |  |
-| 2026-11-11 | ↳ Send revised version to all co-authors (promised Peter/Katrien/Anja/Jesper "early next week") |  |
+| 2026-11-11 | ↳ Send revised version to all co-authors (promised Peter/Katrien/Anja/Jesper "early next week") | yes |
+| 2026-11-13 | ↳ Resend missing attachments 3 (changes-in-margin PDF) + 4 (tracked-changes Word) to co-authors (Peter asked 13 Nov) (with Claude) |  |
 | 2026-11-16 | ↳ Incorporate co-author feedback and upload revision + response letter to DergiPark |  |
 | — | ↳ R1.1 Fix font break under "The A in STEAM"; all tables + figures to APA style |  |
 | — | ↳ R1.2 Introduction: critical take on Perignat & Katz-Buonincontro / Braund & Reiss + state astronomy-specific contribution |  |
@@ -75,7 +77,7 @@
 | — | ↳ R1.7 Make implications specific and actionable (define the "A"; assess artistic + scientific components together) |  |
 | — | ↳ R1.8 Streamline repeated small-corpus remarks in discussion |  |
 | — | ↳ Set up Paper Workbench + seed manuscript from thesis §2.1 (J-STEAM template, baseline = submitted text) (with Claude) | yes |
-| — | ↳ Write response-to-reviewers letter (point by point) |  |
+| — | ↳ Write response-to-reviewers letter (point by point) | yes |
 
 ##### Resources
 
