@@ -18,22 +18,24 @@
 
 | Date | Milestone | Done |
 |---|---|---|
-| 2026-11-16 | Submit major revision to Journal of STEAM Education (DergiPark 1838138) — final deadline (with Claude) |  |
+| 2026-11-16 | Send info mail to supervisors from the Outbox (v2, incl. Reviewer 2) |  |
+| 2026-11-16 | Submit major revision to Journal of STEAM Education (DergiPark 1838138) — final deadline (with Claude) | yes |
 | 2026-11-11 | ↳ Send revised version to all co-authors (promised Peter/Katrien/Anja/Jesper "early next week") | yes |
 | 2026-11-13 | ↳ Resend missing attachments 3 + 4 (now: tracked changes PDF + Word) to co-authors — sent 13 Nov 15:48 (with Claude) | yes |
-| 2026-11-16 | ↳ Incorporate co-author feedback and upload revision + response letter to DergiPark |  |
+| 2026-11-16 | ↳ Incorporate co-author feedback and upload revision + response letter to DergiPark — Complete Revision 16 Nov 16:14 TRT, status With Editor | yes |
 | 2026-11-16 | ↳ Upload corrected OSF Analysis files (RQ2, RQ4, RQ5) + README to osf.io/kswm3 — done 16 Nov, v2 of each file, 2024 versions kept (with Claude) | yes |
 | — | ↳ Address Peter's feedback (14 Nov): 'central role' sentence, R1.5 trustworthiness + OSF coding record, Rec. 3 portfolio/performance assessment (with Claude) | yes |
-| — | ↳ R1.1 Fix font break under "The A in STEAM"; all tables + figures to APA style |  |
-| — | ↳ R1.2 Introduction: critical take on Perignat & Katz-Buonincontro / Braund & Reiss + state astronomy-specific contribution |  |
-| — | ↳ R1.3 Rewrite query design (initial query → RAKE → second query; 82 → 171 → 11) as a simple linear account |  |
-| — | ↳ R1.4 Merge Figures 1–3 into a single PRISMA flow diagram with exact numbers |  |
-| — | ↳ R1.5 Step-by-step coding procedure: theme identification, single-analyst bias handling, category validation |  |
-| — | ↳ R1.6 Reframe "STEAM risks being perceived as a trivial side project" as implication/concern |  |
-| — | ↳ R1.7 Make implications specific and actionable (define the "A"; assess artistic + scientific components together) |  |
-| — | ↳ R1.8 Streamline repeated small-corpus remarks in discussion |  |
+| — | ↳ R1.1 Fix font break under "The A in STEAM"; all tables + figures to APA style | yes |
+| — | ↳ R1.2 Introduction: critical take on Perignat & Katz-Buonincontro / Braund & Reiss + state astronomy-specific contribution | yes |
+| — | ↳ R1.3 Rewrite query design (initial query → RAKE → second query; 82 → 171 → 11) as a simple linear account | yes |
+| — | ↳ R1.4 Merge Figures 1–3 into a single PRISMA flow diagram with exact numbers | yes |
+| — | ↳ R1.5 Step-by-step coding procedure: theme identification, single-analyst bias handling, category validation | yes |
+| — | ↳ R1.6 Reframe "STEAM risks being perceived as a trivial side project" as implication/concern | yes |
+| — | ↳ R1.7 Make implications specific and actionable (define the "A"; assess artistic + scientific components together) | yes |
+| — | ↳ R1.8 Streamline repeated small-corpus remarks in discussion | yes |
 | — | ↳ Set up Paper Workbench + seed manuscript from thesis §2.1 (J-STEAM template, baseline = submitted text) (with Claude) | yes |
 | — | ↳ Write response-to-reviewers letter (point by point) | yes |
+| — | Await J-STEAM editor decision on revision 1 (status With Editor since 16 Nov 2026) |  |
 
 ### Resources
 
@@ -66,22 +68,24 @@
 
 | Date | Milestone | Done |
 |---|---|---|
-| 2026-11-16 | Submit major revision to Journal of STEAM Education (DergiPark 1838138) — final deadline (with Claude) |  |
+| 2026-11-16 | Send info mail to supervisors from the Outbox (v2, incl. Reviewer 2) |  |
+| 2026-11-16 | Submit major revision to Journal of STEAM Education (DergiPark 1838138) — final deadline (with Claude) | yes |
 | 2026-11-11 | ↳ Send revised version to all co-authors (promised Peter/Katrien/Anja/Jesper "early next week") | yes |
 | 2026-11-13 | ↳ Resend missing attachments 3 + 4 (now: tracked changes PDF + Word) to co-authors — sent 13 Nov 15:48 (with Claude) | yes |
-| 2026-11-16 | ↳ Incorporate co-author feedback and upload revision + response letter to DergiPark |  |
+| 2026-11-16 | ↳ Incorporate co-author feedback and upload revision + response letter to DergiPark — Complete Revision 16 Nov 16:14 TRT, status With Editor | yes |
 | 2026-11-16 | ↳ Upload corrected OSF Analysis files (RQ2, RQ4, RQ5) + README to osf.io/kswm3 — done 16 Nov, v2 of each file, 2024 versions kept (with Claude) | yes |
 | — | ↳ Address Peter's feedback (14 Nov): 'central role' sentence, R1.5 trustworthiness + OSF coding record, Rec. 3 portfolio/performance assessment (with Claude) | yes |
-| — | ↳ R1.1 Fix font break under "The A in STEAM"; all tables + figures to APA style |  |
-| — | ↳ R1.2 Introduction: critical take on Perignat & Katz-Buonincontro / Braund & Reiss + state astronomy-specific contribution |  |
-| — | ↳ R1.3 Rewrite query design (initial query → RAKE → second query; 82 → 171 → 11) as a simple linear account |  |
-| — | ↳ R1.4 Merge Figures 1–3 into a single PRISMA flow diagram with exact numbers |  |
-| — | ↳ R1.5 Step-by-step coding procedure: theme identification, single-analyst bias handling, category validation |  |
-| — | ↳ R1.6 Reframe "STEAM risks being perceived as a trivial side project" as implication/concern |  |
-| — | ↳ R1.7 Make implications specific and actionable (define the "A"; assess artistic + scientific components together) |  |
-| — | ↳ R1.8 Streamline repeated small-corpus remarks in discussion |  |
+| — | ↳ R1.1 Fix font break under "The A in STEAM"; all tables + figures to APA style | yes |
+| — | ↳ R1.2 Introduction: critical take on Perignat & Katz-Buonincontro / Braund & Reiss + state astronomy-specific contribution | yes |
+| — | ↳ R1.3 Rewrite query design (initial query → RAKE → second query; 82 → 171 → 11) as a simple linear account | yes |
+| — | ↳ R1.4 Merge Figures 1–3 into a single PRISMA flow diagram with exact numbers | yes |
+| — | ↳ R1.5 Step-by-step coding procedure: theme identification, single-analyst bias handling, category validation | yes |
+| — | ↳ R1.6 Reframe "STEAM risks being perceived as a trivial side project" as implication/concern | yes |
+| — | ↳ R1.7 Make implications specific and actionable (define the "A"; assess artistic + scientific components together) | yes |
+| — | ↳ R1.8 Streamline repeated small-corpus remarks in discussion | yes |
 | — | ↳ Set up Paper Workbench + seed manuscript from thesis §2.1 (J-STEAM template, baseline = submitted text) (with Claude) | yes |
 | — | ↳ Write response-to-reviewers letter (point by point) | yes |
+| — | Await J-STEAM editor decision on revision 1 (status With Editor since 16 Nov 2026) |  |
 
 ##### Resources
 
