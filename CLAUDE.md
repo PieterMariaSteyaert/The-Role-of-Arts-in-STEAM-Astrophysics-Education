@@ -22,7 +22,7 @@
 | 2026-11-11 | ↳ Send revised version to all co-authors (promised Peter/Katrien/Anja/Jesper "early next week") | yes |
 | 2026-11-13 | ↳ Resend missing attachments 3 + 4 (now: tracked changes PDF + Word) to co-authors — sent 13 Nov 15:48 (with Claude) | yes |
 | 2026-11-16 | ↳ Incorporate co-author feedback and upload revision + response letter to DergiPark |  |
-| 2026-11-16 | ↳ Upload corrected OSF Analysis files (RQ2, RQ4, RQ5) + README to osf.io/kswm3 (files in steam-manuscript/export/osf-2026-11-16) (with Claude) |  |
+| 2026-11-16 | ↳ Upload corrected OSF Analysis files (RQ2, RQ4, RQ5) + README to osf.io/kswm3 — done 16 Nov, v2 of each file, 2024 versions kept (with Claude) | yes |
 | — | ↳ Address Peter's feedback (14 Nov): 'central role' sentence, R1.5 trustworthiness + OSF coding record, Rec. 3 portfolio/performance assessment (with Claude) | yes |
 | — | ↳ R1.1 Fix font break under "The A in STEAM"; all tables + figures to APA style |  |
 | — | ↳ R1.2 Introduction: critical take on Perignat & Katz-Buonincontro / Braund & Reiss + state astronomy-specific contribution |  |
@@ -70,7 +70,7 @@
 | 2026-11-11 | ↳ Send revised version to all co-authors (promised Peter/Katrien/Anja/Jesper "early next week") | yes |
 | 2026-11-13 | ↳ Resend missing attachments 3 + 4 (now: tracked changes PDF + Word) to co-authors — sent 13 Nov 15:48 (with Claude) | yes |
 | 2026-11-16 | ↳ Incorporate co-author feedback and upload revision + response letter to DergiPark |  |
-| 2026-11-16 | ↳ Upload corrected OSF Analysis files (RQ2, RQ4, RQ5) + README to osf.io/kswm3 (files in steam-manuscript/export/osf-2026-11-16) (with Claude) |  |
+| 2026-11-16 | ↳ Upload corrected OSF Analysis files (RQ2, RQ4, RQ5) + README to osf.io/kswm3 — done 16 Nov, v2 of each file, 2024 versions kept (with Claude) | yes |
 | — | ↳ Address Peter's feedback (14 Nov): 'central role' sentence, R1.5 trustworthiness + OSF coding record, Rec. 3 portfolio/performance assessment (with Claude) | yes |
 | — | ↳ R1.1 Fix font break under "The A in STEAM"; all tables + figures to APA style |  |
 | — | ↳ R1.2 Introduction: critical take on Perignat & Katz-Buonincontro / Braund & Reiss + state astronomy-specific contribution |  |
