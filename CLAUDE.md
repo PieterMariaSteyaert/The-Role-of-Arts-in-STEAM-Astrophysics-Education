@@ -111,6 +111,34 @@
 
 > Written by Claude when a session closes: what was done, what is open, the next step. Newest first.
 
+#### Handoff 2026-11-16 14:24
+
+**16 Nov 2026: revision 1 submitted to J-STEAM (DergiPark 1838138).** "Complete Revision" at 16:14 TRT; status *With Editor*.
+
+**Done**
+- Peter's points (14 Nov):
+  - "central role" sentence reworded in the letter and the Introduction;
+  - R1.5 rebuilt: the OSF coding tables are the audit trail, four trustworthiness checks (Thomas, 2006, p. 243), interpretive RQs named;
+  - Recommendation 3: portfolio/performance assessment added.
+- OSF Analysis RQ2/RQ4/RQ5 updated to v2, plus README of the changes.
+- Reviewer 2's six margin comments found in the reviewer file of 9 Feb (missed since March). Answered as 2.1–2.6; the manuscript got a bridging sentence in Introduction ¶1 and a fourth limitation (two search platforms).
+- Uploaded:
+  - named Full Text File;
+  - tracked changes;
+  - letter (frozen as v3 "submitted" in Workbench).
+
+  The full point-by-point text is also pasted in both DergiPark response boxes.
+- Log: `Revision log 2026-11-16.md` in the vault. Decisions in `decisions.md`.
+
+**Open**
+- Pieter sends the supervisor mail from the Outbox (01M7J5VQ2PQTP5TCSA9CSZA539, v2).
+- Timeline shows "reviewer visibility has been disabled" for the Full Text File at 15:44 (after the first reupload). Probably DergiPark's default for named files, but worth checking with the editor if reviewers need the manuscript.
+- Await the editor's decision.
+
+**Tips**
+- DergiPark rejects pandoc .docx files. Re-save them via headless LibreOffice (`soffice --headless --convert-to docx`) before uploading.
+- Check DergiPark "Process Files" for reviewer files.
+
 ### claude/decisions.md
 
 ### Decisions · Syslit: The Role of Arts in STEAM Astrophysics Education
